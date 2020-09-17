@@ -1,0 +1,41 @@
+[0.202s] Invoking command in '/home/austin/ros2/src/py_pubsub': PYTHONPATH=/home/austin/ros2/install/py_pubsub/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/austin/ros2/build/py_pubsub build --build-base /home/austin/ros2/build/py_pubsub/build install --prefix /home/austin/ros2/install/py_pubsub --record /home/austin/ros2/build/py_pubsub/install.log --single-version-externally-managed
+[0.375s] running egg_info
+[0.376s] creating /home/austin/ros2/build/py_pubsub/py_pubsub.egg-info
+[0.376s] writing /home/austin/ros2/build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.376s] writing dependency_links to /home/austin/ros2/build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.376s] writing entry points to /home/austin/ros2/build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.376s] writing requirements to /home/austin/ros2/build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.376s] writing top-level names to /home/austin/ros2/build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.376s] writing manifest file '/home/austin/ros2/build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.402s] reading manifest file '/home/austin/ros2/build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.402s] writing manifest file '/home/austin/ros2/build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.403s] running build
+[0.403s] running build_py
+[0.403s] creating /home/austin/ros2/build/py_pubsub/build
+[0.403s] creating /home/austin/ros2/build/py_pubsub/build/lib
+[0.403s] creating /home/austin/ros2/build/py_pubsub/build/lib/py_pubsub
+[0.403s] copying py_pubsub/publisher_member_function.py -> /home/austin/ros2/build/py_pubsub/build/lib/py_pubsub
+[0.403s] copying py_pubsub/__init__.py -> /home/austin/ros2/build/py_pubsub/build/lib/py_pubsub
+[0.403s] copying py_pubsub/subscriber_member_function.py -> /home/austin/ros2/build/py_pubsub/build/lib/py_pubsub
+[0.403s] running install
+[0.403s] running install_lib
+[0.404s] creating /home/austin/ros2/install/py_pubsub/lib/python3.6/site-packages/py_pubsub
+[0.404s] copying /home/austin/ros2/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/austin/ros2/install/py_pubsub/lib/python3.6/site-packages/py_pubsub
+[0.404s] copying /home/austin/ros2/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/austin/ros2/install/py_pubsub/lib/python3.6/site-packages/py_pubsub
+[0.404s] copying /home/austin/ros2/build/py_pubsub/build/lib/py_pubsub/subscriber_member_function.py -> /home/austin/ros2/install/py_pubsub/lib/python3.6/site-packages/py_pubsub
+[0.404s] byte-compiling /home/austin/ros2/install/py_pubsub/lib/python3.6/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-36.pyc
+[0.405s] byte-compiling /home/austin/ros2/install/py_pubsub/lib/python3.6/site-packages/py_pubsub/__init__.py to __init__.cpython-36.pyc
+[0.405s] byte-compiling /home/austin/ros2/install/py_pubsub/lib/python3.6/site-packages/py_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-36.pyc
+[0.405s] running install_data
+[0.405s] creating /home/austin/ros2/install/py_pubsub/share/ament_index
+[0.406s] creating /home/austin/ros2/install/py_pubsub/share/ament_index/resource_index
+[0.406s] creating /home/austin/ros2/install/py_pubsub/share/ament_index/resource_index/packages
+[0.406s] copying resource/py_pubsub -> /home/austin/ros2/install/py_pubsub/share/ament_index/resource_index/packages
+[0.406s] copying package.xml -> /home/austin/ros2/install/py_pubsub/share/py_pubsub
+[0.406s] running install_egg_info
+[0.407s] Copying /home/austin/ros2/build/py_pubsub/py_pubsub.egg-info to /home/austin/ros2/install/py_pubsub/lib/python3.6/site-packages/py_pubsub-0.0.0-py3.6.egg-info
+[0.407s] running install_scripts
+[0.421s] Installing listener script to /home/austin/ros2/install/py_pubsub/lib/py_pubsub
+[0.422s] Installing talker script to /home/austin/ros2/install/py_pubsub/lib/py_pubsub
+[0.422s] writing list of installed files to '/home/austin/ros2/build/py_pubsub/install.log'
+[0.437s] Invoked command in '/home/austin/ros2/src/py_pubsub' returned '0': PYTHONPATH=/home/austin/ros2/install/py_pubsub/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/austin/ros2/build/py_pubsub build --build-base /home/austin/ros2/build/py_pubsub/build install --prefix /home/austin/ros2/install/py_pubsub --record /home/austin/ros2/build/py_pubsub/install.log --single-version-externally-managed

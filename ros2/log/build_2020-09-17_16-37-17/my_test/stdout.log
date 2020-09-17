@@ -1,0 +1,22 @@
+running egg_info
+writing /home/austin/ros2/build/my_test/my_test.egg-info/PKG-INFO
+writing dependency_links to /home/austin/ros2/build/my_test/my_test.egg-info/dependency_links.txt
+writing entry points to /home/austin/ros2/build/my_test/my_test.egg-info/entry_points.txt
+writing requirements to /home/austin/ros2/build/my_test/my_test.egg-info/requires.txt
+writing top-level names to /home/austin/ros2/build/my_test/my_test.egg-info/top_level.txt
+reading manifest file '/home/austin/ros2/build/my_test/my_test.egg-info/SOURCES.txt'
+writing manifest file '/home/austin/ros2/build/my_test/my_test.egg-info/SOURCES.txt'
+running build
+running build_py
+copying my_test/test1.py -> /home/austin/ros2/build/my_test/build/lib/my_test
+running install
+running install_lib
+copying /home/austin/ros2/build/my_test/build/lib/my_test/test1.py -> /home/austin/ros2/install/my_test/lib/python3.6/site-packages/my_test
+byte-compiling /home/austin/ros2/install/my_test/lib/python3.6/site-packages/my_test/test1.py to test1.cpython-36.pyc
+running install_data
+running install_egg_info
+removing '/home/austin/ros2/install/my_test/lib/python3.6/site-packages/my_test-0.0.0-py3.6.egg-info' (and everything under it)
+Copying /home/austin/ros2/build/my_test/my_test.egg-info to /home/austin/ros2/install/my_test/lib/python3.6/site-packages/my_test-0.0.0-py3.6.egg-info
+running install_scripts
+Installing test script to /home/austin/ros2/install/my_test/lib/my_test
+writing list of installed files to '/home/austin/ros2/build/my_test/install.log'

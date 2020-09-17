@@ -1,0 +1,37 @@
+[0.198s] Invoking command in '/home/austin/ros2/src/my_test': PYTHONPATH=/home/austin/ros2/install/my_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/austin/ros2/build/my_test build --build-base /home/austin/ros2/build/my_test/build install --prefix /home/austin/ros2/install/my_test --record /home/austin/ros2/build/my_test/install.log --single-version-externally-managed
+[0.371s] running egg_info
+[0.372s] creating /home/austin/ros2/build/my_test/my_test.egg-info
+[0.372s] writing /home/austin/ros2/build/my_test/my_test.egg-info/PKG-INFO
+[0.372s] writing dependency_links to /home/austin/ros2/build/my_test/my_test.egg-info/dependency_links.txt
+[0.372s] writing entry points to /home/austin/ros2/build/my_test/my_test.egg-info/entry_points.txt
+[0.372s] writing requirements to /home/austin/ros2/build/my_test/my_test.egg-info/requires.txt
+[0.372s] writing top-level names to /home/austin/ros2/build/my_test/my_test.egg-info/top_level.txt
+[0.372s] writing manifest file '/home/austin/ros2/build/my_test/my_test.egg-info/SOURCES.txt'
+[0.398s] reading manifest file '/home/austin/ros2/build/my_test/my_test.egg-info/SOURCES.txt'
+[0.398s] writing manifest file '/home/austin/ros2/build/my_test/my_test.egg-info/SOURCES.txt'
+[0.398s] running build
+[0.399s] running build_py
+[0.399s] creating /home/austin/ros2/build/my_test/build
+[0.399s] creating /home/austin/ros2/build/my_test/build/lib
+[0.399s] creating /home/austin/ros2/build/my_test/build/lib/my_test
+[0.399s] copying my_test/__init__.py -> /home/austin/ros2/build/my_test/build/lib/my_test
+[0.399s] copying my_test/test1.py -> /home/austin/ros2/build/my_test/build/lib/my_test
+[0.399s] running install
+[0.399s] running install_lib
+[0.400s] creating /home/austin/ros2/install/my_test/lib/python3.6/site-packages/my_test
+[0.400s] copying /home/austin/ros2/build/my_test/build/lib/my_test/__init__.py -> /home/austin/ros2/install/my_test/lib/python3.6/site-packages/my_test
+[0.400s] copying /home/austin/ros2/build/my_test/build/lib/my_test/test1.py -> /home/austin/ros2/install/my_test/lib/python3.6/site-packages/my_test
+[0.400s] byte-compiling /home/austin/ros2/install/my_test/lib/python3.6/site-packages/my_test/__init__.py to __init__.cpython-36.pyc
+[0.400s] byte-compiling /home/austin/ros2/install/my_test/lib/python3.6/site-packages/my_test/test1.py to test1.cpython-36.pyc
+[0.400s] running install_data
+[0.401s] creating /home/austin/ros2/install/my_test/share/ament_index
+[0.401s] creating /home/austin/ros2/install/my_test/share/ament_index/resource_index
+[0.401s] creating /home/austin/ros2/install/my_test/share/ament_index/resource_index/packages
+[0.401s] copying resource/my_test -> /home/austin/ros2/install/my_test/share/ament_index/resource_index/packages
+[0.401s] copying package.xml -> /home/austin/ros2/install/my_test/share/my_test
+[0.401s] running install_egg_info
+[0.402s] Copying /home/austin/ros2/build/my_test/my_test.egg-info to /home/austin/ros2/install/my_test/lib/python3.6/site-packages/my_test-0.0.0-py3.6.egg-info
+[0.403s] running install_scripts
+[0.417s] Installing test script to /home/austin/ros2/install/my_test/lib/my_test
+[0.417s] writing list of installed files to '/home/austin/ros2/build/my_test/install.log'
+[0.433s] Invoked command in '/home/austin/ros2/src/my_test' returned '0': PYTHONPATH=/home/austin/ros2/install/my_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/austin/ros2/build/my_test build --build-base /home/austin/ros2/build/my_test/build install --prefix /home/austin/ros2/install/my_test --record /home/austin/ros2/build/my_test/install.log --single-version-externally-managed

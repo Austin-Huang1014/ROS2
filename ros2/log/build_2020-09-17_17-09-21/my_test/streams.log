@@ -1,0 +1,22 @@
+[0.397s] Invoking command in '/home/austin/ros2/src/my_test': PYTHONPATH=/home/austin/ros2/install/my_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/austin/ros2/build/my_test build --build-base /home/austin/ros2/build/my_test/build install --prefix /home/austin/ros2/install/my_test --record /home/austin/ros2/build/my_test/install.log --single-version-externally-managed
+[0.582s] running egg_info
+[0.582s] writing /home/austin/ros2/build/my_test/my_test.egg-info/PKG-INFO
+[0.583s] writing dependency_links to /home/austin/ros2/build/my_test/my_test.egg-info/dependency_links.txt
+[0.583s] writing entry points to /home/austin/ros2/build/my_test/my_test.egg-info/entry_points.txt
+[0.584s] writing requirements to /home/austin/ros2/build/my_test/my_test.egg-info/requires.txt
+[0.584s] writing top-level names to /home/austin/ros2/build/my_test/my_test.egg-info/top_level.txt
+[0.610s] reading manifest file '/home/austin/ros2/build/my_test/my_test.egg-info/SOURCES.txt'
+[0.611s] writing manifest file '/home/austin/ros2/build/my_test/my_test.egg-info/SOURCES.txt'
+[0.611s] running build
+[0.612s] running build_py
+[0.612s] running install
+[0.612s] running install_lib
+[0.613s] running install_data
+[0.613s] copying launch/test.launch.py -> /home/austin/ros2/install/my_test/share/my_test
+[0.613s] running install_egg_info
+[0.615s] removing '/home/austin/ros2/install/my_test/lib/python3.6/site-packages/my_test-0.0.0-py3.6.egg-info' (and everything under it)
+[0.615s] Copying /home/austin/ros2/build/my_test/my_test.egg-info to /home/austin/ros2/install/my_test/lib/python3.6/site-packages/my_test-0.0.0-py3.6.egg-info
+[0.615s] running install_scripts
+[0.630s] Installing test script to /home/austin/ros2/install/my_test/lib/my_test
+[0.630s] writing list of installed files to '/home/austin/ros2/build/my_test/install.log'
+[0.671s] Invoked command in '/home/austin/ros2/src/my_test' returned '0': PYTHONPATH=/home/austin/ros2/install/my_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/austin/ros2/build/my_test build --build-base /home/austin/ros2/build/my_test/build install --prefix /home/austin/ros2/install/my_test --record /home/austin/ros2/build/my_test/install.log --single-version-externally-managed
