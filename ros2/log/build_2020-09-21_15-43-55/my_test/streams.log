@@ -1,0 +1,25 @@
+[0.385s] Invoking command in '/home/austin/ROS2/ros2/src/my_test': PYTHONPATH=/home/austin/ROS2/ros2/install/my_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/austin/ROS2/ros2/build/my_test build --build-base /home/austin/ROS2/ros2/build/my_test/build install --prefix /home/austin/ROS2/ros2/install/my_test --record /home/austin/ROS2/ros2/build/my_test/install.log --single-version-externally-managed
+[0.565s] running egg_info
+[0.565s] writing /home/austin/ROS2/ros2/build/my_test/my_test.egg-info/PKG-INFO
+[0.565s] writing dependency_links to /home/austin/ROS2/ros2/build/my_test/my_test.egg-info/dependency_links.txt
+[0.566s] writing entry points to /home/austin/ROS2/ros2/build/my_test/my_test.egg-info/entry_points.txt
+[0.566s] writing requirements to /home/austin/ROS2/ros2/build/my_test/my_test.egg-info/requires.txt
+[0.566s] writing top-level names to /home/austin/ROS2/ros2/build/my_test/my_test.egg-info/top_level.txt
+[0.592s] reading manifest file '/home/austin/ROS2/ros2/build/my_test/my_test.egg-info/SOURCES.txt'
+[0.592s] writing manifest file '/home/austin/ROS2/ros2/build/my_test/my_test.egg-info/SOURCES.txt'
+[0.593s] running build
+[0.593s] running build_py
+[0.593s] copying my_test/publisher.py -> /home/austin/ROS2/ros2/build/my_test/build/lib/my_test
+[0.593s] running install
+[0.593s] running install_lib
+[0.594s] copying /home/austin/ROS2/ros2/build/my_test/build/lib/my_test/publisher.py -> /home/austin/ROS2/ros2/install/my_test/lib/python3.6/site-packages/my_test
+[0.594s] byte-compiling /home/austin/ROS2/ros2/install/my_test/lib/python3.6/site-packages/my_test/publisher.py to publisher.cpython-36.pyc
+[0.594s] running install_data
+[0.595s] running install_egg_info
+[0.596s] removing '/home/austin/ROS2/ros2/install/my_test/lib/python3.6/site-packages/my_test-0.0.0-py3.6.egg-info' (and everything under it)
+[0.596s] Copying /home/austin/ROS2/ros2/build/my_test/my_test.egg-info to /home/austin/ROS2/ros2/install/my_test/lib/python3.6/site-packages/my_test-0.0.0-py3.6.egg-info
+[0.597s] running install_scripts
+[0.612s] Installing lisenter script to /home/austin/ROS2/ros2/install/my_test/lib/my_test
+[0.612s] Installing talker script to /home/austin/ROS2/ros2/install/my_test/lib/my_test
+[0.612s] writing list of installed files to '/home/austin/ROS2/ros2/build/my_test/install.log'
+[0.630s] Invoked command in '/home/austin/ROS2/ros2/src/my_test' returned '0': PYTHONPATH=/home/austin/ROS2/ros2/install/my_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/austin/ROS2/ros2/build/my_test build --build-base /home/austin/ROS2/ros2/build/my_test/build install --prefix /home/austin/ROS2/ros2/install/my_test --record /home/austin/ROS2/ros2/build/my_test/install.log --single-version-externally-managed

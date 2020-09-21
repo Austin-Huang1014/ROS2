@@ -1,3 +1,4 @@
 [console_scripts]
-test = my_test.test1:main
+lisenter = my_test.subscriber:main
+talker = my_test.publisher:main
 

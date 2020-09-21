@@ -23,7 +23,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'test = my_test.test1:main',
+            'talker = my_test.publisher:main',
+            'lisenter = my_test.subscriber:main'
         ],
     },
 )
